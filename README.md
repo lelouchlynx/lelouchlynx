@@ -26,6 +26,3 @@ Currently learning and building projects with:
 
 ![Languages](./metrics.plugin.languages.svg)
 
-## 🐍 Contributions
-
-![Snake animation](./output/github-contribution-grid-snake.svg)
