@@ -11,10 +11,14 @@ Currently learning and building projects with:
 ---
 🌱 Still building — more projects coming.
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lelouchlynx&show_icons=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchlynx&layout=compact&hide_border=true&langs_count=6" height="165">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/lelouchlynx/lelouchlynx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/lelouchlynx/lelouchlynx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/lelouchlynx/lelouchlynx/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![GitHub Isometric Calendar](./metrics.plugin.isocalendar.svg)
 
