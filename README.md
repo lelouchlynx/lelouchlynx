@@ -12,8 +12,7 @@ Currently learning and building projects with:
 🌱 Still building — more projects coming.
 ## 📊 GitHub Activity
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lelouchlynx&theme=github-compact)](https://github.com/lelouchlynx)
+
+
 ![GitHub Isometric Calendar](./metrics.plugin.isocalendar.svg)
-
-![Languages](./metrics.plugin.languages.svg)
-
-![Coding Habits](./metrics.plugin.habits.svg)
